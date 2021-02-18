@@ -1,0 +1,21 @@
+Race_ID,Race,H_Income,Pop,Per_Pop,Borough,H_Income_bucket_ID,H_Income_bucket
+2,Black,39259,431785,0.30,Bronx,1,30-40k
+4,Hispanic,31073,807672,0.56,Bronx,1,30-40k
+2,Black,33783,213571,0.13,Manhattan,1,30-40k
+4,Hispanic,36245,422708,0.26,Manhattan,1,30-40k
+4,Hispanic,38927,496140,0.19,Brooklyn,1,30-40k
+3,Asian/Pacific Islander,49149,58424,0.04,Bronx,2,40-50k
+2,Black,43308,800367,0.31,Brooklyn,2,40-50k
+2,Black,44062,47414,0.10,Staten Island,2,40-50k
+2,Black,63345,424887,0.19,Queens,3,50-65k
+3,Asian/Pacific Islander,60056,621234,0.27,Queens,3,50-65k
+4,Hispanic,54428,642991,0.28,Queens,3,50-65k
+1,White,60892,136839,0.10,Bronx,3,50-65k
+3,Asian/Pacific Islander,55686,330969,0.13,Brooklyn,3,50-65k
+4,Hispanic,56122,88261,0.19,Staten Island,3,50-65k
+1,White,69975,597026,0.26,Queens,4,65k+
+1,White,118664,781344,0.48,Manhattan,4,65k+
+3,Asian/Pacific Islander,78301,208793,0.13,Manhattan,4,65k+
+1,White,71432,962151,0.37,Brooklyn,4,65k+
+1,White,84989,294334,0.62,Staten Island,4,65k+
+3,Asian/Pacific Islander,77695,44606,0.09,Staten Island,4,65k+
