@@ -1,0 +1,26 @@
+age,borough,pop,pop_per,Median_Age
+Under 19,Bronx,385895,0.24,34.8
+20-40,Bronx,591835,0.37,34.8
+40-60,Bronx,349072,0.22,34.8
+60-80,Bronx,218684,0.14,34.8
+80+,Bronx,47645,0.03,34.8
+Under 19,Manhattan,265847,0.16,37.6
+20-40,Manhattan,600036,0.37,37.6
+40-60,Manhattan,396767,0.24,37.6
+60-80,Manhattan,288672,0.18,37.6
+80+,Manhattan,77384,0.05,37.6
+Under 19,Brooklyn,629445,0.25,35.6
+20-40,Brooklyn,814783,0.32,35.6
+40-60,Brooklyn,603136,0.24,35.6
+60-80,Brooklyn,419962,0.16,35.6
+80+,Brooklyn,92577,0.04,35.6
+Under 19,Staten Island,114116,0.24,40
+20-40,Staten Island,123877,0.26,40
+40-60,Staten Island,128571,0.27,40
+60-80,Staten Island,91256,0.19,40
+80+,Staten Island,18323,0.04,40
+Under 19,Queens,494204,0.22,39.7
+20-40,Queens,643838,0.29,39.7
+40-60,Queens,608503,0.27,39.7
+60-80,Queens,409674,0.18,39.7
+80+,Queens,97639,0.04,39.7
