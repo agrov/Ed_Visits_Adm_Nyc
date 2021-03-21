@@ -1,4 +1,4 @@
-# Analysis of Emergency Deparment Visits and Admissions in New York City
+# Analysis of Emergency Deparment Visits and Admissions for Influenza-like Illness and/or Pneumonia in New York City
   
 ED_Adm_Analysis_NYC.ipynb includes the analysis on Emergency Department visits and Admissions in New York City with focus on Influenza like Illness. 
 
